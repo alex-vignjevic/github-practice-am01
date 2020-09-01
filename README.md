@@ -28,7 +28,7 @@ Learning to use Github for your Portfolio Website Assignment
 # Class GitHub Table with all portfolio websites
 
 | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
-|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
+|Aleksandar Vignjevic   |      1        |alex-vignjevic   |<https://github.com/alex-vignjevic/my_website>|   |<https://alex-vignjevic-portfolio.netlify.app/>| 2020-09-02
 |Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 
 
